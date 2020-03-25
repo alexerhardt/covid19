@@ -36,7 +36,7 @@ function extract(filename) {
 const [confirmed, dates] = extract(FILENAME_CONFIRMED);
 const [deaths] = extract(FILENAME_DEATHS);
 // const [recovered] = extract(FILENAME_RECOVERED);
-const countries = Object.keys(recovered);
+const countries = Object.keys(confirmed);
 const results = {};
 countries.forEach(country => {
   results[country] = dates.map(date => {
