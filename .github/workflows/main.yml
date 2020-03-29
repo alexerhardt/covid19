@@ -2,7 +2,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: "15 5,13,21 * * *"
+    - cron: "15 2,6,10 * * *"
 
 jobs:
   extract_job:
