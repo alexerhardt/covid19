@@ -569,6 +569,11 @@
       "date": "2020-5-14",
       "confirmed": 5639,
       "deaths": 136
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6053,
+      "deaths": 153
     }
   ],
   "Albania": [
@@ -1140,6 +1145,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 898,
+      "deaths": 31
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 916,
       "deaths": 31
     }
   ],
@@ -1713,6 +1723,11 @@
       "date": "2020-5-14",
       "confirmed": 6442,
       "deaths": 529
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6629,
+      "deaths": 536
     }
   ],
   "Andorra": [
@@ -2283,6 +2298,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 761,
+      "deaths": 49
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 761,
       "deaths": 49
     }
@@ -2857,6 +2877,11 @@
       "date": "2020-5-14",
       "confirmed": 48,
       "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 48,
+      "deaths": 2
     }
   ],
   "Antigua and Barbuda": [
@@ -3427,6 +3452,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 25,
+      "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 25,
       "deaths": 3
     }
@@ -4001,6 +4031,11 @@
       "date": "2020-5-14",
       "confirmed": 7134,
       "deaths": 353
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 7479,
+      "deaths": 356
     }
   ],
   "Armenia": [
@@ -4573,6 +4608,11 @@
       "date": "2020-5-14",
       "confirmed": 3860,
       "deaths": 49
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 4044,
+      "deaths": 52
     }
   ],
   "Australia": [
@@ -5144,6 +5184,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 7019,
+      "deaths": 98
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 7035,
       "deaths": 98
     }
   ],
@@ -5717,6 +5762,11 @@
       "date": "2020-5-14",
       "confirmed": 16058,
       "deaths": 626
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 16109,
+      "deaths": 628
     }
   ],
   "Azerbaijan": [
@@ -6289,6 +6339,11 @@
       "date": "2020-5-14",
       "confirmed": 2879,
       "deaths": 35
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2980,
+      "deaths": 36
     }
   ],
   "Bahamas": [
@@ -6859,6 +6914,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 96,
+      "deaths": 11
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 96,
       "deaths": 11
     }
@@ -7433,6 +7493,11 @@
       "date": "2020-5-14",
       "confirmed": 6198,
       "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6583,
+      "deaths": 12
     }
   ],
   "Bangladesh": [
@@ -8005,6 +8070,11 @@
       "date": "2020-5-14",
       "confirmed": 18863,
       "deaths": 283
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 20065,
+      "deaths": 298
     }
   ],
   "Barbados": [
@@ -8575,6 +8645,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 85,
+      "deaths": 7
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 85,
       "deaths": 7
     }
@@ -9149,6 +9224,11 @@
       "date": "2020-5-14",
       "confirmed": 26772,
       "deaths": 151
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 27730,
+      "deaths": 156
     }
   ],
   "Belgium": [
@@ -9721,6 +9801,11 @@
       "date": "2020-5-14",
       "confirmed": 54288,
       "deaths": 8903
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 54644,
+      "deaths": 8959
     }
   ],
   "Benin": [
@@ -10291,6 +10376,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 339,
+      "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 339,
       "deaths": 2
     }
@@ -10865,6 +10955,11 @@
       "date": "2020-5-14",
       "confirmed": 20,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 21,
+      "deaths": 0
     }
   ],
   "Bolivia": [
@@ -11437,6 +11532,11 @@
       "date": "2020-5-14",
       "confirmed": 3372,
       "deaths": 152
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3577,
+      "deaths": 164
     }
   ],
   "Bosnia and Herzegovina": [
@@ -12009,6 +12109,11 @@
       "date": "2020-5-14",
       "confirmed": 2218,
       "deaths": 122
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2236,
+      "deaths": 128
     }
   ],
   "Brazil": [
@@ -12581,6 +12686,11 @@
       "date": "2020-5-14",
       "confirmed": 203165,
       "deaths": 13999
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 220291,
+      "deaths": 14962
     }
   ],
   "Brunei": [
@@ -13151,6 +13261,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 141,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 141,
       "deaths": 1
     }
@@ -13725,6 +13840,11 @@
       "date": "2020-5-14",
       "confirmed": 2100,
       "deaths": 99
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2138,
+      "deaths": 102
     }
   ],
   "Burkina Faso": [
@@ -14296,6 +14416,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 773,
+      "deaths": 51
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 780,
       "deaths": 51
     }
   ],
@@ -14869,6 +14994,11 @@
       "date": "2020-5-14",
       "confirmed": 315,
       "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 326,
+      "deaths": 2
     }
   ],
   "Cambodia": [
@@ -15439,6 +15569,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 122,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 122,
       "deaths": 0
     }
@@ -16013,6 +16148,11 @@
       "date": "2020-5-14",
       "confirmed": 2954,
       "deaths": 139
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3105,
+      "deaths": 140
     }
   ],
   "Canada": [
@@ -16585,6 +16725,11 @@
       "date": "2020-5-14",
       "confirmed": 74781,
       "deaths": 5592
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 75959,
+      "deaths": 5679
     }
   ],
   "Central African Republic": [
@@ -17156,6 +17301,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 143,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 301,
       "deaths": 0
     }
   ],
@@ -17729,6 +17879,11 @@
       "date": "2020-5-14",
       "confirmed": 399,
       "deaths": 46
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 428,
+      "deaths": 48
     }
   ],
   "Chile": [
@@ -18301,6 +18456,11 @@
       "date": "2020-5-14",
       "confirmed": 37040,
       "deaths": 368
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 39542,
+      "deaths": 394
     }
   ],
   "China": [
@@ -18872,6 +19032,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 84029,
+      "deaths": 4637
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 84038,
       "deaths": 4637
     }
   ],
@@ -19445,6 +19610,11 @@
       "date": "2020-5-14",
       "confirmed": 13610,
       "deaths": 525
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 14216,
+      "deaths": 546
     }
   ],
   "Congo (Brazzaville)": [
@@ -20015,6 +20185,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 391,
+      "deaths": 15
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 391,
       "deaths": 15
     }
@@ -20589,6 +20764,11 @@
       "date": "2020-5-14",
       "confirmed": 1242,
       "deaths": 50
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1298,
+      "deaths": 50
     }
   ],
   "Costa Rica": [
@@ -21161,6 +21341,11 @@
       "date": "2020-5-14",
       "confirmed": 830,
       "deaths": 8
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 843,
+      "deaths": 9
     }
   ],
   "Cote d'Ivoire": [
@@ -21732,6 +21917,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 1971,
+      "deaths": 24
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2017,
       "deaths": 24
     }
   ],
@@ -22305,6 +22495,11 @@
       "date": "2020-5-14",
       "confirmed": 2221,
       "deaths": 94
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2222,
+      "deaths": 95
     }
   ],
   "Diamond Princess": [
@@ -22875,6 +23070,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 712,
+      "deaths": 13
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 712,
       "deaths": 13
     }
@@ -23449,6 +23649,11 @@
       "date": "2020-5-14",
       "confirmed": 1830,
       "deaths": 79
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1840,
+      "deaths": 79
     }
   ],
   "Cyprus": [
@@ -24020,6 +24225,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 907,
+      "deaths": 17
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 910,
       "deaths": 17
     }
   ],
@@ -24593,6 +24803,11 @@
       "date": "2020-5-14",
       "confirmed": 8351,
       "deaths": 293
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 8406,
+      "deaths": 295
     }
   ],
   "Denmark": [
@@ -25164,6 +25379,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 10911,
+      "deaths": 537
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 10989,
       "deaths": 537
     }
   ],
@@ -25737,6 +25957,11 @@
       "date": "2020-5-14",
       "confirmed": 1284,
       "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1309,
+      "deaths": 4
     }
   ],
   "Dominican Republic": [
@@ -26309,6 +26534,11 @@
       "date": "2020-5-14",
       "confirmed": 11320,
       "deaths": 422
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 11739,
+      "deaths": 424
     }
   ],
   "Ecuador": [
@@ -26881,6 +27111,11 @@
       "date": "2020-5-14",
       "confirmed": 30502,
       "deaths": 2338
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 31467,
+      "deaths": 2594
     }
   ],
   "Egypt": [
@@ -27453,6 +27688,11 @@
       "date": "2020-5-14",
       "confirmed": 10829,
       "deaths": 571
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 11228,
+      "deaths": 592
     }
   ],
   "El Salvador": [
@@ -28025,6 +28265,11 @@
       "date": "2020-5-14",
       "confirmed": 1112,
       "deaths": 23
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1210,
+      "deaths": 25
     }
   ],
   "Equatorial Guinea": [
@@ -28597,6 +28842,11 @@
       "date": "2020-5-14",
       "confirmed": 583,
       "deaths": 7
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 594,
+      "deaths": 7
     }
   ],
   "Eritrea": [
@@ -29167,6 +29417,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 39,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 39,
       "deaths": 0
     }
@@ -29741,6 +29996,11 @@
       "date": "2020-5-14",
       "confirmed": 1758,
       "deaths": 62
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1766,
+      "deaths": 63
     }
   ],
   "Eswatini": [
@@ -30312,6 +30572,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 187,
+      "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 190,
       "deaths": 2
     }
   ],
@@ -30885,6 +31150,11 @@
       "date": "2020-5-14",
       "confirmed": 272,
       "deaths": 5
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 287,
+      "deaths": 5
     }
   ],
   "Fiji": [
@@ -31455,6 +31725,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 18,
       "deaths": 0
     }
@@ -32029,6 +32304,11 @@
       "date": "2020-5-14",
       "confirmed": 6145,
       "deaths": 287
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6228,
+      "deaths": 293
     }
   ],
   "France": [
@@ -32601,6 +32881,11 @@
       "date": "2020-5-14",
       "confirmed": 178994,
       "deaths": 27428
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 179630,
+      "deaths": 27532
     }
   ],
   "Gabon": [
@@ -33173,6 +33458,11 @@
       "date": "2020-5-14",
       "confirmed": 1104,
       "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1209,
+      "deaths": 10
     }
   ],
   "Gambia": [
@@ -33743,6 +34033,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 23,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 23,
       "deaths": 1
     }
@@ -34317,6 +34612,11 @@
       "date": "2020-5-14",
       "confirmed": 667,
       "deaths": 12
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 671,
+      "deaths": 12
     }
   ],
   "Germany": [
@@ -34889,6 +35189,11 @@
       "date": "2020-5-14",
       "confirmed": 174478,
       "deaths": 7884
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 175233,
+      "deaths": 7897
     }
   ],
   "Ghana": [
@@ -35461,6 +35766,11 @@
       "date": "2020-5-14",
       "confirmed": 5530,
       "deaths": 24
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 5638,
+      "deaths": 28
     }
   ],
   "Greece": [
@@ -36033,6 +36343,11 @@
       "date": "2020-5-14",
       "confirmed": 2770,
       "deaths": 156
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2810,
+      "deaths": 160
     }
   ],
   "Guatemala": [
@@ -36605,6 +36920,11 @@
       "date": "2020-5-14",
       "confirmed": 1518,
       "deaths": 29
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1643,
+      "deaths": 30
     }
   ],
   "Guinea": [
@@ -37175,6 +37495,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 2473,
+      "deaths": 15
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 2473,
       "deaths": 15
     }
@@ -37749,6 +38074,11 @@
       "date": "2020-5-14",
       "confirmed": 113,
       "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 116,
+      "deaths": 10
     }
   ],
   "Haiti": [
@@ -38321,6 +38651,11 @@
       "date": "2020-5-14",
       "confirmed": 273,
       "deaths": 20
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 310,
+      "deaths": 20
     }
   ],
   "Holy See": [
@@ -38891,6 +39226,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 12,
       "deaths": 0
     }
@@ -39465,6 +39805,11 @@
       "date": "2020-5-14",
       "confirmed": 2318,
       "deaths": 133
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2460,
+      "deaths": 134
     }
   ],
   "Hungary": [
@@ -40037,6 +40382,11 @@
       "date": "2020-5-14",
       "confirmed": 3380,
       "deaths": 436
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3417,
+      "deaths": 442
     }
   ],
   "Iceland": [
@@ -40607,6 +40957,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 1802,
+      "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 1802,
       "deaths": 10
     }
@@ -41181,6 +41536,11 @@
       "date": "2020-5-14",
       "confirmed": 81997,
       "deaths": 2649
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 85784,
+      "deaths": 2753
     }
   ],
   "Indonesia": [
@@ -41753,6 +42113,11 @@
       "date": "2020-5-14",
       "confirmed": 16006,
       "deaths": 1043
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 16496,
+      "deaths": 1076
     }
   ],
   "Iran": [
@@ -42325,6 +42690,11 @@
       "date": "2020-5-14",
       "confirmed": 114533,
       "deaths": 6854
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 116635,
+      "deaths": 6902
     }
   ],
   "Iraq": [
@@ -42897,6 +43267,11 @@
       "date": "2020-5-14",
       "confirmed": 3143,
       "deaths": 115
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3193,
+      "deaths": 117
     }
   ],
   "Ireland": [
@@ -43469,6 +43844,11 @@
       "date": "2020-5-14",
       "confirmed": 23827,
       "deaths": 1506
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 23956,
+      "deaths": 1518
     }
   ],
   "Israel": [
@@ -44041,6 +44421,11 @@
       "date": "2020-5-14",
       "confirmed": 16579,
       "deaths": 265
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 16589,
+      "deaths": 266
     }
   ],
   "Italy": [
@@ -44613,6 +44998,11 @@
       "date": "2020-5-14",
       "confirmed": 223096,
       "deaths": 31368
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 223885,
+      "deaths": 31610
     }
   ],
   "Jamaica": [
@@ -45184,6 +45574,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 509,
+      "deaths": 9
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 511,
       "deaths": 9
     }
   ],
@@ -45757,6 +46152,11 @@
       "date": "2020-5-14",
       "confirmed": 16120,
       "deaths": 697
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 16203,
+      "deaths": 713
     }
   ],
   "Jordan": [
@@ -46328,6 +46728,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 586,
+      "deaths": 9
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 596,
       "deaths": 9
     }
   ],
@@ -46901,6 +47306,11 @@
       "date": "2020-5-14",
       "confirmed": 5571,
       "deaths": 32
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 5689,
+      "deaths": 34
     }
   ],
   "Kenya": [
@@ -47473,6 +47883,11 @@
       "date": "2020-5-14",
       "confirmed": 758,
       "deaths": 42
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 781,
+      "deaths": 45
     }
   ],
   "Korea, South": [
@@ -48045,6 +48460,11 @@
       "date": "2020-5-14",
       "confirmed": 11018,
       "deaths": 260
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 11037,
+      "deaths": 262
     }
   ],
   "Kuwait": [
@@ -48617,6 +49037,11 @@
       "date": "2020-5-14",
       "confirmed": 11975,
       "deaths": 88
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 12860,
+      "deaths": 96
     }
   ],
   "Kyrgyzstan": [
@@ -49189,6 +49614,11 @@
       "date": "2020-5-14",
       "confirmed": 1082,
       "deaths": 12
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1111,
+      "deaths": 14
     }
   ],
   "Latvia": [
@@ -49760,6 +50190,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 962,
+      "deaths": 19
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 970,
       "deaths": 19
     }
   ],
@@ -50333,6 +50768,11 @@
       "date": "2020-5-14",
       "confirmed": 886,
       "deaths": 26
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 891,
+      "deaths": 26
     }
   ],
   "Liberia": [
@@ -50905,6 +51345,11 @@
       "date": "2020-5-14",
       "confirmed": 215,
       "deaths": 20
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 219,
+      "deaths": 20
     }
   ],
   "Liechtenstein": [
@@ -51475,6 +51920,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 82,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 82,
       "deaths": 1
     }
@@ -52049,6 +52499,11 @@
       "date": "2020-5-14",
       "confirmed": 1511,
       "deaths": 54
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1523,
+      "deaths": 54
     }
   ],
   "Luxembourg": [
@@ -52621,6 +53076,11 @@
       "date": "2020-5-14",
       "confirmed": 3915,
       "deaths": 103
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3923,
+      "deaths": 104
     }
   ],
   "Madagascar": [
@@ -53192,6 +53652,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 230,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 238,
       "deaths": 0
     }
   ],
@@ -53765,6 +54230,11 @@
       "date": "2020-5-14",
       "confirmed": 6819,
       "deaths": 112
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6855,
+      "deaths": 112
     }
   ],
   "Maldives": [
@@ -54336,6 +54806,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 982,
+      "deaths": 4
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1031,
       "deaths": 4
     }
   ],
@@ -54909,6 +55384,11 @@
       "date": "2020-5-14",
       "confirmed": 522,
       "deaths": 6
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 532,
+      "deaths": 6
     }
   ],
   "Mauritania": [
@@ -55481,6 +55961,11 @@
       "date": "2020-5-14",
       "confirmed": 20,
       "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 29,
+      "deaths": 3
     }
   ],
   "Mauritius": [
@@ -56051,6 +56536,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 332,
+      "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 332,
       "deaths": 10
     }
@@ -56625,6 +57115,11 @@
       "date": "2020-5-14",
       "confirmed": 42595,
       "deaths": 4477
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 45032,
+      "deaths": 4767
     }
   ],
   "Moldova": [
@@ -57197,6 +57692,11 @@
       "date": "2020-5-14",
       "confirmed": 5553,
       "deaths": 194
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 5745,
+      "deaths": 202
     }
   ],
   "Monaco": [
@@ -57767,6 +58267,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 96,
+      "deaths": 4
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 96,
       "deaths": 4
     }
@@ -58341,6 +58846,11 @@
       "date": "2020-5-14",
       "confirmed": 98,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 98,
+      "deaths": 0
     }
   ],
   "Montenegro": [
@@ -58911,6 +59421,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 324,
+      "deaths": 9
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 324,
       "deaths": 9
     }
@@ -59485,6 +60000,11 @@
       "date": "2020-5-14",
       "confirmed": 6607,
       "deaths": 190
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 6652,
+      "deaths": 190
     }
   ],
   "Namibia": [
@@ -60055,6 +60575,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 16,
       "deaths": 0
     }
@@ -60629,6 +61154,11 @@
       "date": "2020-5-14",
       "confirmed": 249,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 267,
+      "deaths": 0
     }
   ],
   "Netherlands": [
@@ -61201,6 +61731,11 @@
       "date": "2020-5-14",
       "confirmed": 43680,
       "deaths": 5609
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 43880,
+      "deaths": 5662
     }
   ],
   "New Zealand": [
@@ -61771,6 +62306,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 1498,
+      "deaths": 21
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 1498,
       "deaths": 21
     }
@@ -62345,6 +62885,11 @@
       "date": "2020-5-14",
       "confirmed": 25,
       "deaths": 8
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 25,
+      "deaths": 8
     }
   ],
   "Niger": [
@@ -62917,6 +63462,11 @@
       "date": "2020-5-14",
       "confirmed": 876,
       "deaths": 50
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 885,
+      "deaths": 51
     }
   ],
   "Nigeria": [
@@ -63489,6 +64039,11 @@
       "date": "2020-5-14",
       "confirmed": 5162,
       "deaths": 167
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 5450,
+      "deaths": 171
     }
   ],
   "North Macedonia": [
@@ -64061,6 +64616,11 @@
       "date": "2020-5-14",
       "confirmed": 1723,
       "deaths": 95
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1740,
+      "deaths": 97
     }
   ],
   "Norway": [
@@ -64632,6 +65192,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 8196,
+      "deaths": 232
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 8219,
       "deaths": 232
     }
   ],
@@ -65205,6 +65770,11 @@
       "date": "2020-5-14",
       "confirmed": 4341,
       "deaths": 18
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 4625,
+      "deaths": 20
     }
   ],
   "Pakistan": [
@@ -65777,6 +66347,11 @@
       "date": "2020-5-14",
       "confirmed": 35788,
       "deaths": 770
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 38799,
+      "deaths": 834
     }
   ],
   "Panama": [
@@ -66349,6 +66924,11 @@
       "date": "2020-5-14",
       "confirmed": 9118,
       "deaths": 260
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 9268,
+      "deaths": 266
     }
   ],
   "Papua New Guinea": [
@@ -66919,6 +67499,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 8,
       "deaths": 0
     }
@@ -67493,6 +68078,11 @@
       "date": "2020-5-14",
       "confirmed": 754,
       "deaths": 11
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 759,
+      "deaths": 11
     }
   ],
   "Peru": [
@@ -68065,6 +68655,11 @@
       "date": "2020-5-14",
       "confirmed": 80604,
       "deaths": 2267
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 84495,
+      "deaths": 2392
     }
   ],
   "Philippines": [
@@ -68637,6 +69232,11 @@
       "date": "2020-5-14",
       "confirmed": 11876,
       "deaths": 790
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 12091,
+      "deaths": 806
     }
   ],
   "Poland": [
@@ -69209,6 +69809,11 @@
       "date": "2020-5-14",
       "confirmed": 17615,
       "deaths": 883
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 18016,
+      "deaths": 907
     }
   ],
   "Portugal": [
@@ -69781,6 +70386,11 @@
       "date": "2020-5-14",
       "confirmed": 28319,
       "deaths": 1184
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 28583,
+      "deaths": 1190
     }
   ],
   "Qatar": [
@@ -70352,6 +70962,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 28272,
+      "deaths": 14
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 29425,
       "deaths": 14
     }
   ],
@@ -70925,6 +71540,11 @@
       "date": "2020-5-14",
       "confirmed": 16247,
       "deaths": 1053
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 16437,
+      "deaths": 1070
     }
   ],
   "Russia": [
@@ -71497,6 +72117,11 @@
       "date": "2020-5-14",
       "confirmed": 252245,
       "deaths": 2305
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 262843,
+      "deaths": 2418
     }
   ],
   "Rwanda": [
@@ -72067,6 +72692,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 287,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 287,
       "deaths": 0
     }
@@ -72641,6 +73271,11 @@
       "date": "2020-5-14",
       "confirmed": 18,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 18,
+      "deaths": 0
     }
   ],
   "Saint Vincent and the Grenadines": [
@@ -73211,6 +73846,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 17,
       "deaths": 0
     }
@@ -73785,6 +74425,11 @@
       "date": "2020-5-14",
       "confirmed": 648,
       "deaths": 41
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 652,
+      "deaths": 41
     }
   ],
   "Saudi Arabia": [
@@ -74357,6 +75002,11 @@
       "date": "2020-5-14",
       "confirmed": 46869,
       "deaths": 283
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 49176,
+      "deaths": 292
     }
   ],
   "Senegal": [
@@ -74929,6 +75579,11 @@
       "date": "2020-5-14",
       "confirmed": 2189,
       "deaths": 23
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2310,
+      "deaths": 25
     }
   ],
   "Serbia": [
@@ -75501,6 +76156,11 @@
       "date": "2020-5-14",
       "confirmed": 10374,
       "deaths": 224
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 10438,
+      "deaths": 225
     }
   ],
   "Seychelles": [
@@ -76071,6 +76731,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 11,
       "deaths": 0
     }
@@ -76645,6 +77310,11 @@
       "date": "2020-5-14",
       "confirmed": 26098,
       "deaths": 21
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 26891,
+      "deaths": 21
     }
   ],
   "Slovakia": [
@@ -77216,6 +77886,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 1477,
+      "deaths": 27
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1480,
       "deaths": 27
     }
   ],
@@ -77789,6 +78464,11 @@
       "date": "2020-5-14",
       "confirmed": 1464,
       "deaths": 103
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1465,
+      "deaths": 103
     }
   ],
   "Somalia": [
@@ -78359,6 +79039,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 1284,
+      "deaths": 53
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 1284,
       "deaths": 53
     }
@@ -78933,6 +79618,11 @@
       "date": "2020-5-14",
       "confirmed": 12739,
       "deaths": 238
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 13524,
+      "deaths": 247
     }
   ],
   "Spain": [
@@ -79505,6 +80195,11 @@
       "date": "2020-5-14",
       "confirmed": 229540,
       "deaths": 27321
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 230183,
+      "deaths": 27459
     }
   ],
   "Sri Lanka": [
@@ -80076,6 +80771,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 925,
+      "deaths": 9
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 935,
       "deaths": 9
     }
   ],
@@ -80649,6 +81349,11 @@
       "date": "2020-5-14",
       "confirmed": 1818,
       "deaths": 90
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1964,
+      "deaths": 91
     }
   ],
   "Suriname": [
@@ -81219,6 +81924,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 10,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 10,
       "deaths": 1
     }
@@ -81793,6 +82503,11 @@
       "date": "2020-5-14",
       "confirmed": 28582,
       "deaths": 3529
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 29207,
+      "deaths": 3646
     }
   ],
   "Switzerland": [
@@ -82365,6 +83080,11 @@
       "date": "2020-5-14",
       "confirmed": 30463,
       "deaths": 1872
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 30514,
+      "deaths": 1878
     }
   ],
   "Taiwan*": [
@@ -82935,6 +83655,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 440,
+      "deaths": 7
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 440,
       "deaths": 7
     }
@@ -83509,6 +84234,11 @@
       "date": "2020-5-14",
       "confirmed": 509,
       "deaths": 21
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 509,
+      "deaths": 21
     }
   ],
   "Thailand": [
@@ -84080,6 +84810,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 3018,
+      "deaths": 56
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 3025,
       "deaths": 56
     }
   ],
@@ -84653,6 +85388,11 @@
       "date": "2020-5-14",
       "confirmed": 238,
       "deaths": 11
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 263,
+      "deaths": 11
     }
   ],
   "Trinidad and Tobago": [
@@ -85223,6 +85963,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 116,
+      "deaths": 8
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 116,
       "deaths": 8
     }
@@ -85797,6 +86542,11 @@
       "date": "2020-5-14",
       "confirmed": 1032,
       "deaths": 45
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1035,
+      "deaths": 45
     }
   ],
   "Turkey": [
@@ -86369,6 +87119,11 @@
       "date": "2020-5-14",
       "confirmed": 144749,
       "deaths": 4007
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 146457,
+      "deaths": 4055
     }
   ],
   "Uganda": [
@@ -86940,6 +87695,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 160,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 203,
       "deaths": 0
     }
   ],
@@ -87513,6 +88273,11 @@
       "date": "2020-5-14",
       "confirmed": 16847,
       "deaths": 456
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 17330,
+      "deaths": 476
     }
   ],
   "United Arab Emirates": [
@@ -88085,6 +88850,11 @@
       "date": "2020-5-14",
       "confirmed": 21084,
       "deaths": 208
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 21831,
+      "deaths": 210
     }
   ],
   "United Kingdom": [
@@ -88657,6 +89427,11 @@
       "date": "2020-5-14",
       "confirmed": 234440,
       "deaths": 33693
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 238004,
+      "deaths": 34078
     }
   ],
   "Uruguay": [
@@ -89228,6 +90003,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 724,
+      "deaths": 19
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 732,
       "deaths": 19
     }
   ],
@@ -89801,6 +90581,11 @@
       "date": "2020-5-14",
       "confirmed": 1417774,
       "deaths": 85898
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1442824,
+      "deaths": 87530
     }
   ],
   "Uzbekistan": [
@@ -90372,6 +91157,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 2645,
+      "deaths": 11
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 2686,
       "deaths": 11
     }
   ],
@@ -90945,6 +91735,11 @@
       "date": "2020-5-14",
       "confirmed": 455,
       "deaths": 10
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 459,
+      "deaths": 10
     }
   ],
   "Vietnam": [
@@ -91517,6 +92312,11 @@
       "date": "2020-5-14",
       "confirmed": 312,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 314,
+      "deaths": 0
     }
   ],
   "Zambia": [
@@ -92087,6 +92887,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 654,
+      "deaths": 7
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 654,
       "deaths": 7
     }
@@ -92661,6 +93466,11 @@
       "date": "2020-5-14",
       "confirmed": 37,
       "deaths": 4
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 42,
+      "deaths": 4
     }
   ],
   "Dominica": [
@@ -93231,6 +94041,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 16,
       "deaths": 0
     }
@@ -93805,6 +94620,11 @@
       "date": "2020-5-14",
       "confirmed": 21,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 22,
+      "deaths": 0
     }
   ],
   "Mozambique": [
@@ -94376,6 +95196,11 @@
     {
       "date": "2020-5-14",
       "confirmed": 115,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 119,
       "deaths": 0
     }
   ],
@@ -94949,6 +95774,11 @@
       "date": "2020-5-14",
       "confirmed": 48,
       "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 50,
+      "deaths": 3
     }
   ],
   "Timor-Leste": [
@@ -95519,6 +96349,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 24,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 24,
       "deaths": 0
     }
@@ -96093,6 +96928,11 @@
       "date": "2020-5-14",
       "confirmed": 18,
       "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 18,
+      "deaths": 2
     }
   ],
   "Laos": [
@@ -96663,6 +97503,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 19,
       "deaths": 0
     }
@@ -97237,6 +98082,11 @@
       "date": "2020-5-14",
       "confirmed": 64,
       "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 64,
+      "deaths": 3
     }
   ],
   "West Bank and Gaza": [
@@ -97807,6 +98657,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 375,
+      "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 375,
       "deaths": 2
     }
@@ -98381,6 +99236,11 @@
       "date": "2020-5-14",
       "confirmed": 913,
       "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 913,
+      "deaths": 3
     }
   ],
   "Mali": [
@@ -98953,6 +99813,11 @@
       "date": "2020-5-14",
       "confirmed": 779,
       "deaths": 46
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 806,
+      "deaths": 46
     }
   ],
   "Saint Kitts and Nevis": [
@@ -99523,6 +100388,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 15,
       "deaths": 0
     }
@@ -100097,6 +100967,11 @@
       "date": "2020-5-14",
       "confirmed": 944,
       "deaths": 29
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 944,
+      "deaths": 29
     }
   ],
   "Burma": [
@@ -100669,6 +101544,11 @@
       "date": "2020-5-14",
       "confirmed": 181,
       "deaths": 6
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 182,
+      "deaths": 6
     }
   ],
   "MS Zaandam": [
@@ -101239,6 +102119,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 9,
+      "deaths": 2
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 9,
       "deaths": 2
     }
@@ -101813,6 +102698,11 @@
       "date": "2020-5-14",
       "confirmed": 24,
       "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 24,
+      "deaths": 1
     }
   ],
   "Burundi": [
@@ -102383,6 +103273,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 15,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 15,
       "deaths": 1
     }
@@ -102957,6 +103852,11 @@
       "date": "2020-5-14",
       "confirmed": 408,
       "deaths": 26
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 447,
+      "deaths": 27
     }
   ],
   "Malawi": [
@@ -103527,6 +104427,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 63,
+      "deaths": 3
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 63,
       "deaths": 3
     }
@@ -104101,6 +105006,11 @@
       "date": "2020-5-14",
       "confirmed": 203,
       "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 236,
+      "deaths": 4
     }
   ],
   "Western Sahara": [
@@ -104671,6 +105581,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 6,
       "deaths": 0
     }
@@ -105245,6 +106160,11 @@
       "date": "2020-5-14",
       "confirmed": 235,
       "deaths": 7
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 235,
+      "deaths": 7
     }
   ],
   "Yemen": [
@@ -105817,6 +106737,11 @@
       "date": "2020-5-14",
       "confirmed": 85,
       "deaths": 12
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 106,
+      "deaths": 15
     }
   ],
   "Comoros": [
@@ -106387,6 +107312,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 11,
+      "deaths": 1
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 11,
       "deaths": 1
     }
@@ -106961,6 +107891,11 @@
       "date": "2020-5-14",
       "confirmed": 907,
       "deaths": 29
+    },
+    {
+      "date": "2020-5-15",
+      "confirmed": 1118,
+      "deaths": 33
     }
   ],
   "Lesotho": [
@@ -107531,6 +108466,11 @@
     },
     {
       "date": "2020-5-14",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "2020-5-15",
       "confirmed": 1,
       "deaths": 0
     }
