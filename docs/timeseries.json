@@ -99735,28 +99735,28 @@
     },
     {
       "date": "2020-9-22",
-      "confirmed": 5562663,
-      "deaths": 88935
-    },
-    {
-      "date": "2020-9-23",
       "confirmed": 5646010,
       "deaths": 90020
     },
     {
-      "date": "2020-9-24",
+      "date": "2020-9-23",
       "confirmed": 5732518,
       "deaths": 91149
     },
     {
-      "date": "2020-9-25",
+      "date": "2020-9-24",
       "confirmed": 5818570,
       "deaths": 92290
     },
     {
-      "date": "2020-9-26",
+      "date": "2020-9-25",
       "confirmed": 5903932,
       "deaths": 93379
+    },
+    {
+      "date": "2020-9-26",
+      "confirmed": 5992532,
+      "deaths": 94503
     }
   ],
   "Indonesia": [
