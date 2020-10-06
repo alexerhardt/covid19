@@ -60464,7 +60464,7 @@
     },
     {
       "date": "2020-9-30",
-      "confirmed": 68919,
+      "confirmed": 70763,
       "deaths": 655
     },
     {
@@ -102955,8 +102955,8 @@
     },
     {
       "date": "2020-10-4",
-      "confirmed": 6549373,
-      "deaths": 101782
+      "confirmed": 6623815,
+      "deaths": 102685
     }
   ],
   "Indonesia": [
@@ -158261,13 +158261,13 @@
     },
     {
       "date": "2020-9-27",
-      "confirmed": 113564,
-      "deaths": 6415
+      "confirmed": 116559,
+      "deaths": 6423
     },
     {
       "date": "2020-9-28",
-      "confirmed": 115640,
-      "deaths": 6415
+      "confirmed": 119509,
+      "deaths": 6429
     },
     {
       "date": "2020-9-29",
